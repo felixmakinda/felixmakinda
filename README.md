@@ -1,5 +1,13 @@
 Hi 👋 My name is F. Makinda
-===========================Programmer, Learner-------------------Computer Science graduate with a solid background in problem-solving, software engineering, Java, C, C++ programming, and databases (SQL, Oracle, IBM DB2, MySQL, SQL Server, Access). I am also conversant with data mining tools such as WEKA, RStudio, RapidMiner, IBM SPSS Modeler, Tableaux, and Hadoop. For over 5 years, I have been working as a technical writer and researcher. However, in the past two years I have been transitioning to full-time software development. Currently learning development technologies like React, Node.js, and Mongo DB. I am also learning blockchain development and smart contracts.* 🌍  I'm based in Nairobi* ✉️  You can contact me at [felixmakinda@gmail.com](mailto:felixmakinda@gmail.com)* 🧠  I'm learning Tailwind CSS, Solidity, React, Kafka, Java Spring Boot* 🤝  I'm open to collaborating on Blockchain, Web Development, Mobile & Desktop App Development* ⚡  I am an avid reader with great attention to detail. Other than programming, I am a passionate writer and content creator.
+===========================
+Programmer, Learner
+-------------------
+Computer Science graduate with a solid background in problem-solving, software engineering, Java, C, C++ programming, and databases (SQL, Oracle, IBM DB2, MySQL, SQL Server, Access). I am also conversant with data mining tools such as WEKA, RStudio, RapidMiner, IBM SPSS Modeler, Tableaux, and Hadoop. For over 5 years, I have been working as a technical writer and researcher. However, in the past two years I have been transitioning to full-time software development. Currently learning development technologies like React, Node.js, and Mongo DB. I am also learning blockchain development and smart contracts.
+* 🌍  I'm based in Nairobi
+* ✉️  You can contact me at [felixmakinda@gmail.com](mailto:felixmakinda@gmail.com)
+* 🧠  I'm learning Tailwind CSS, Solidity, React, Kafka, Java Spring Boot
+* 🤝  I'm open to collaborating on Blockchain, Web Development, Mobile & Desktop App Development
+* ⚡  I am an avid reader with great attention to detail. Other than programming, I am a passionate writer and content creator.
 
 <a href="https://www.github.com/felixmakinda" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/felixmakinda?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
