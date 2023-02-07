@@ -5,7 +5,7 @@ Programmer, Learner
 Computer Science graduate with a solid background in problem-solving, software engineering, Java, C, C++ programming, and databases (SQL, Oracle, IBM DB2, MySQL, SQL Server, Access). I am also conversant with data mining tools such as WEKA, RStudio, RapidMiner, IBM SPSS Modeler, Tableaux, and Hadoop. For over 5 years, I have been working as a technical writer, data analyst, researcher,and part-time programmer. However, since 2020 I have been transitioning to full-time software development. Currently learning development technologies like React, Node.js, and Mongo DB; blockchain development and smart contracts.
 * 🌍  I'm based in Nairobi
 * ✉️  You can contact me at [felixmakinda@gmail.com](mailto:felixmakinda@gmail.com)
-* 🧠  I'm learning Solidity, React, Kafka, Java Spring Boot
+* 🧠  I'm learning Solidity, Kafka, Java Spring Boot
 * 🤝  I'm open to collaborating on Blockchain, Web Development, Mobile & Desktop App Development
 * ⚡  I am an avid reader with great attention to detail. Other than programming, I am a passionate writer and content creator.
 
