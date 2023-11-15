@@ -2,7 +2,7 @@ Hi 👋 My name is F. Makinda
 ===========================
 Programmer, Learner
 -------------------
-Computer Science graduate with a solid background in problem-solving, software engineering, Java, React, NextJs, C, C++ programming, and databases (SQL, Oracle, MongoDB, PostgreSQL, IBM DB2, MySQL, SQL Server, Access). I am also conversant with data mining tools such as WEKA, RStudio, RapidMiner, IBM SPSS Modeler, Tableaux, and Hadoop. Currently learning blockchain development and smart contracts.
+Computer Science graduate with a solid background in problem-solving, software development, databases, and data mining. Currently learning blockchain development and smart contracts.
 * 🌍  I'm based in Nairobi
 * ✉️  You can contact me at [felixmakinda@gmail.com](mailto:felixmakinda@gmail.com)
 * 🧠  I'm learning Solidity
