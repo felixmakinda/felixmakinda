@@ -1,6 +1,6 @@
 Hi 👋 My name is F. Makinda
 ===========================
-Programmer, Learner
+Breathing life into code...
 -------------------
 Computer Science graduate with a solid background in problem-solving, software development, databases, and data mining. Currently learning blockchain development and smart contracts.
 * 🌍  I'm based in Nairobi
