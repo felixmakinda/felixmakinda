@@ -2,7 +2,7 @@ Hi 👋 My name is F. Makinda
 ===========================
 Breathing life into code...
 -------------------
-Computer Science graduate with a solid background in problem-solving, software development, databases, and data mining. Currently learning blockchain development and smart contracts.
+Computer Science graduate with a solid background in problem-solving, software development, databases, and data mining. 
 * 🌍  I'm based in Nairobi
 * ✉️  You can contact me at [felixmakinda@gmail.com](mailto:felixmakinda@gmail.com)
 * 🧠  I'm learning Solidity
