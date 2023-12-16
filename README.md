@@ -5,7 +5,6 @@ Breathing life into code...
 Computer Science graduate with a solid background in problem-solving. 
 * 🌍  I'm based in Nairobi
 * ✉️  You can contact me at [felixmakinda@gmail.com](mailto:felixmakinda@gmail.com)
-* 🧠  I'm learning Solidity
 * 🤝  I'm open to collaborating on Blockchain, Web Development, Mobile & Desktop App Development
 * ⚡  I am an avid reader with great attention to detail. Other than programming, I am a passionate writer and content creator.
 
