@@ -18,6 +18,7 @@ src="https://img.shields.io/github/followers/felixmakinda?logo=github&style=for-
 
 ### Socials<p align="left"> <a href="https://www.github.com/felixmakinda" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/felix-makinda-88309b97/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/felix_makinda" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-[![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=felixmakinda&theme=github)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felixmakinda&layout=compact)
+
 
 
