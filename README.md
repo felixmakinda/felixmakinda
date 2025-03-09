@@ -2,10 +2,10 @@ Hi 👋 My name is Felix Makinda
 ===========================
 Breathing life into code...
 -------------------
-Computer Science graduate with a solid background in problem-solving. 
-* 🌍  I'm based in Nairobi
-* 🤝  I'm open to collaborating on Blockchain, Web Development, Mobile & Desktop App Development
-* ⚡  I am an avid reader with great attention to detail. Other than programming, I am a passionate writer and content creator.
+CS, just solving problems. 
+* 🌍  Nairobi
+* 🤝  Blockchain, Web Development, Mobile & Desktop App Development
+* ⚡  Avid reader with great attention to detail.
 
 <a href="https://www.github.com/felixmakinda" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/felixmakinda?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
