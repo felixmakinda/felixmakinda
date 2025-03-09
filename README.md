@@ -1,10 +1,10 @@
-Hi 👋 My name is Felix Makinda
+Hi 👋 
 ===========================
 Breathing life into code...
 -------------------
 CS, just solving problems. 
 * 🌍  Nairobi
-* 🤝  Blockchain, Web Development, Mobile & Desktop App Development
+* 🤝  AI/ML, Blockchain, Web, Mobile & Desktop App Development
 * ⚡  Avid reader with great attention to detail.
 
 <a href="https://www.github.com/felixmakinda" target="_blank" rel="noreferrer"><img
