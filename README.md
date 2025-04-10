@@ -2,7 +2,7 @@ Hi 👋
 ===========================
 Breathing life into code...
 -------------------
-CS, just solving problems. 
+Just solving problems. 
 * 🌍  Nairobi
 * 🤝  AI/ML, Blockchain, Web, Mobile & Desktop App Development
 * ⚡  Avid reader with great attention to detail.
