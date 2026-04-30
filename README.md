@@ -13,8 +13,6 @@ src="https://img.shields.io/github/followers/felixmakinda?logo=github&style=for-
 ### Skills
 
 
-### Skills
-
 <p align="left">
   <a href="https://www.oracle.com/java/">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" />
