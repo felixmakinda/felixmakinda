@@ -19,6 +19,7 @@ I build backend systems and production AI: multi-agent workflows, retrieval pipe
 
 | Project | What it does | Built with |
 | --- | --- | --- |
+| **[Hesabu Lab](https://hesabu-lab.pages.dev)** · [code](https://github.com/felixmakinda/hesabu-lab) · [story](https://makinda.vercel.app/blog/hesabu-lab-free-3d-math-game-for-kids) | Free 3D physics maths game for kids that makes place value visible: ten marbles seal into one crate, so carrying, borrowing, multiplication and remainders become something a child can see and touch. Runs in any browser, including phones and tablets. | Three.js, Rapier physics (Rust → WebAssembly), TypeScript, Blender, Cloudflare Pages |
 | **[Orbit](https://orbit.co.ke)** | Multi-agent platform guiding Kenyan KCSE students through university matching and career counselling. Served 2,000+ students in March 2026. | Google ADK, Cloud Run, RAG, Supabase, M-PESA |
 | **[Okione](https://okione-devsecops.vercel.app)** · [code](https://github.com/felixmakinda/okione-devsecops) | Seven-agent DevSecOps copilot that turns application source into CIS-hardened Kubernetes manifests, with five layers of hallucination prevention. | IBM watsonx.ai (Granite), FastAPI, Kubernetes, Trivy |
 | **Incident Response Agent** · [code](https://github.com/felixmakinda/incidence_response) | Detects customer incidents from email and runs the whole first response in under 60 seconds: reply, war room, Jira ticket, Slack alert and runbook. | Gmail API, Pub/Sub, Jira, Slack, SSE |
